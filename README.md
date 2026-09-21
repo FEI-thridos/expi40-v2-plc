@@ -1,9 +1,3 @@
-[[_TOC_]]
-
-# Production with physical PLC & TIA Portal V19
-
-**TBD**
-
 # Production with PLCSIM & TIA Portal V19 Upd5
 
 ## Prerequisities
